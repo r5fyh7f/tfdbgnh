@@ -1,0 +1,15 @@
+﻿{
+    "name": "gshtdy",
+    "description": "hthtrt",
+    "logo":"hreyrth",
+    "keywords": ["gfhrtdth"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/ r5fyh7f /
+tfdbgnh ",
+    "stack": "container"
+}
